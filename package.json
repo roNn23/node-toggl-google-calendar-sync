@@ -1,0 +1,21 @@
+{
+  "name": "node-toggl-google-calendar-sync",
+  "description": "Sync your Toggl items with a specific Google Calendar and see what you've did last summer... 💪🏻",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Ronny Neefe",
+    "email": "mail-node-toggl-gcal-sync@ronn23.de",
+    "url": "http://ronn23.de/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "delay": "^4.3.0",
+    "googleapis": "39",
+    "pretty-ms": "^6.0.1"
+  }
+}
