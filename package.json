@@ -13,7 +13,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "delay": "^4.4.0",
     "googleapis": "66.0.0",
     "pretty-ms": "^7.0.1"
